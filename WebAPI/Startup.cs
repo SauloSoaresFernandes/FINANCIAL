@@ -42,8 +42,8 @@ namespace Financial.WebAPI
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
                     {
-                        Name = "Ana Eliza",
-                        Email = "ana.eliza@squadra.com.br",
+                        Name = "Saulo Soares Fernandes",
+                        Email = "saulo.fernandes@squadra.com.br",
                         Url = new Uri("https://www.squadra.com.br/"),
                     },
                     License = new OpenApiLicense
